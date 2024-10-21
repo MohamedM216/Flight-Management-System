@@ -1,7 +1,7 @@
-✈️ #Flight Management System
+✈️ <h2>Flight Management System</h2>
 
 A console-based C++ application that offers a complete flight booking experience with additional features such as user login, itinerary management, and a mock payment system. This project applies Object-Oriented Programming (OOP) principles and uses polymorphism and inheritance for better code design and extensibility. APIs for flight and payment handling are simulated for educational purposes.
-🌟 #Features
+🌟 <h2>Features</h2>
 
     User Authentication:
         Login and Sign-up functionality for multiple users.
@@ -17,14 +17,14 @@ A console-based C++ application that offers a complete flight booking experience
         Polymorphism and inheritance.
         API-like wrappers for flight and payment handling (for learning purposes).
 
-🛠️ #Technologies Used
+🛠️ <h2>Technologies Used</h2>
 
     Language: C++
     Paradigm: Object-Oriented Programming
     Concepts: Polymorphism, Inheritance, Encapsulation
     Mock APIs: Simulated flight and payment APIs
 
-🚀 #Getting Started
+🚀 <h2>Getting Started</h2>
 Prerequisites
 
 Make sure you have the following installed on your system:
@@ -40,7 +40,7 @@ Installation
 
     Then Build and Run it.
 
-
+<h2>Screenshots</h2>
 ![Screenshot from 2024-06-19 15-25-44](https://github.com/MohamedM216/Flight-Management-System/assets/113127368/e47c690d-f9c2-4b9b-9fcb-e1ba901ee251)
 ![Screenshot from 2024-06-19 15-25-36](https://github.com/MohamedM216/Flight-Management-System/assets/113127368/4aa3c28d-601c-4d58-b0af-5a5f0a2f7044)
 ![Screenshot from 2024-06-19 15-25-17](https://github.com/MohamedM216/Flight-Management-System/assets/113127368/efece116-433d-4d57-89e3-bb7b431538b7)
