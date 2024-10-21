@@ -1,11 +1,45 @@
-# Flight-Management-System
+✈️ #Flight Management System
 
-<h1>Functions</h1>
-- Login / Sign up
-- Each user has their profile that they can view
-- A customer can make new itinerary which is a new flight
-- A customer also can pay money for their itineray
-- Each customer has their history of itineraries that they can list
+A console-based C++ application that offers a complete flight booking experience with additional features such as user login, itinerary management, and a mock payment system. This project applies Object-Oriented Programming (OOP) principles and uses polymorphism and inheritance for better code design and extensibility. APIs for flight and payment handling are simulated for educational purposes.
+🌟 #Features
+
+    User Authentication:
+        Login and Sign-up functionality for multiple users.
+    Flight & Hotel Booking:
+        Users can create custom itineraries by booking flights or flights + hotels.
+    Payment Process:
+        Mock payment handling for bookings.
+    Itinerary Management:
+        View, print, and track the history of all bookings.
+    User Profile Management:
+        Users can view and manage their personal profile details.
+    OOP Principles Implemented:
+        Polymorphism and inheritance.
+        API-like wrappers for flight and payment handling (for learning purposes).
+
+🛠️ #Technologies Used
+
+    Language: C++
+    Paradigm: Object-Oriented Programming
+    Concepts: Polymorphism, Inheritance, Encapsulation
+    Mock APIs: Simulated flight and payment APIs
+
+🚀 #Getting Started
+Prerequisites
+
+Make sure you have the following installed on your system:
+
+    C++ Compiler (e.g., g++ or Visual Studio)
+    Git (optional, if you want to clone the repository)
+
+Installation
+
+    Clone the repository (or download the ZIP):
+      git clone https://github.com/your-username/flight-management-system.git
+      cd flight-management-system
+
+    Then Build and Run it.
+
 
 ![Screenshot from 2024-06-19 15-25-44](https://github.com/MohamedM216/Flight-Management-System/assets/113127368/e47c690d-f9c2-4b9b-9fcb-e1ba901ee251)
 ![Screenshot from 2024-06-19 15-25-36](https://github.com/MohamedM216/Flight-Management-System/assets/113127368/4aa3c28d-601c-4d58-b0af-5a5f0a2f7044)
